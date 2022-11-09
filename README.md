@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marktwixt
-- 👀 I’m interested in running fitness, trail running, trail building and mapping, and work in higher education tech
+- 👀 I’m interested in running fitness, trail running, trail building and mapping, and I currently work in higher education tech
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on TBD
 - 📫 How to reach me waltostrander@gmail.com
